@@ -4,4 +4,4 @@ The objective is to analyse the dataset and extract features which provide and i
 
 Link to dataset and further details: https://www.kaggle.com/c/tmdb-box-office-prediction/data?select=train.csv
 
-Edit : Outputs have been cleared since the file size was larger than github's limit. Feel free to try them out on your own
+Edit : Certain Outputs have been cleared since the file size was larger than github's limit. Feel free to try them out on your own
