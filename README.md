@@ -7,7 +7,7 @@ Link to dataset and further details: https://www.kaggle.com/c/tmdb-box-office-pr
 Edit : Certain Outputs have been cleared since the file size was larger than github's limit. Feel free to try them out on your own
 
 Methodology :
-* Extract and transfrom all string and JSON formatted data to get information
+* Transfrom all string and JSON formatted data to extract useful information
 * Perform Time-Based Analysis to check impact of Revenue
 * Check correlation and causality between independent features and Revenue generation
 * Encode extracted string features to understand impact of Genre, Production House, Cast on movie Revenue
